@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "55999308203",
+    "project_id": "alertu-11570",
+    "storage_bucket": "alertu-11570.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55999308203:android:b33a8fe268132d3829f2ee",
+        "android_client_info": {
+          "package_name": "com.ndrrmo.alertu.alertu_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55999308203-a14grb4v220oe4go1b565g443aahpu1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ndrrmo.alertu.alertu_flutter",
+            "certificate_hash": "d36230a13b151c80bb910b836a6b34c0c91ef374"
+          }
+        },
+        {
+          "client_id": "55999308203-eol71o7h22h562aumgbjqkval9m4bths.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR7HwwImahySoG0oe688J7qFfA-sQKot4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55999308203-eol71o7h22h562aumgbjqkval9m4bths.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
