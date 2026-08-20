@@ -2,7 +2,6 @@
 # AlertU-MobileFlutter
 AlertU-Citizen/User Mobile-Flutter
 =======
-# alertu_flutter
 
 A new Flutter project.
 
