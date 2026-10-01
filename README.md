@@ -5,3 +5,7 @@
 ## Overview
 
 AlertU Mobile
+
+1. Use Android Studio or Gradle to build the apk
+2. flutter pub get
+3. flutter build apk --release
